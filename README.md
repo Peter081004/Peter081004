@@ -15,7 +15,6 @@
 - 🛻 **Automated Electrical Mini Car**  
   - Arduino-based vehicle with obstacle avoidance and speed control  
   - Technologies: Arduino IDE, C++, Ultrasonic sensors, DC Motors  
-  - [View Repo](https://github.com/yourusername/mini-car)
 
 - 📐 **3D Modeling Projects (CAD)**  
   - Designed using Autodesk Inventor & Fusion 360  
